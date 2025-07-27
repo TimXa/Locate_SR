@@ -1,5 +1,9 @@
 # Locate_SR
 
+[![Download](https://img.shields.io/github/downloads/TimXa/Locate_SR/total?style=for-the-badge&logo=github&label=СКАЧАТЬ)](https://github.com/TimXa/Locate_SR/releases/latest)
+[![Version](https://img.shields.io/github/v/release/TimXa/Locate_SR?style=for-the-badge&label=ВЕРСИЯ)](https://github.com/TimXa/Locate_SR/releases)
+[![Paper](https://img.shields.io/badge/Paper-1.21.4-blue?style=for-the-badge&logo=minecraft)](https://papermc.io/)
+
 Это плагин из моей рубрики "Реализую ваши идеи день N". Первая идея была от @goppplala в комментах ТТ - создать плагин с помощью которого за 5 алмазов можно узнать точные координаты игрока.
 
 ## Как это работает?
@@ -60,7 +64,3 @@
 - Безвредная молния не наносит урон
 - Оптимизированный код без костылей
 
----
-
-*Плагин создан для серии "Реализую ваши идеи"*  
-*Раздаю бесплатно, поэтому без ИИшных следов в коде* 😎
