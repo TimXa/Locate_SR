@@ -1,0 +1,10 @@
+name: Locate_SR
+version: '${project.version}'
+main: org.steelrework.locate_sr.LocateSR
+api-version: '1.21'
+description: 'Плагин для поиска местоположения игроков за алмазы'
+author: SteelRework
+commands:
+  locate:
+    description: 'Узнать координаты другого игрока'
+    usage: '/locate' 
